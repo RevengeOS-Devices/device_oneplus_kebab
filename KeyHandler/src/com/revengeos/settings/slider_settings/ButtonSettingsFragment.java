@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package org.carbonrom.settings.slider_settings;
+package com.revengeos.settings.slider_settings;
 
 import android.os.Bundle;
 import android.text.TextUtils;
@@ -27,7 +27,7 @@ import androidx.preference.Preference;
 import androidx.preference.Preference.OnPreferenceChangeListener;
 import androidx.preference.PreferenceGroup;
 
-import org.carbonrom.settings.slider_settings.utils.Constants;
+import com.revengeos.settings.slider_settings.utils.Constants;
 
 public class ButtonSettingsFragment extends PreferenceFragment
         implements OnPreferenceChangeListener {

@@ -53,7 +53,7 @@
 
         <provider
             android:name=".ConfigPanelSearchIndexablesProvider"
-            android:authorities="org.carbonrom.settings.slider_settings"
+            android:authorities="com.revengeos.settings.slider_settings"
             android:multiprocess="false"
             android:grantUriPermissions="true"
             android:permission="android.permission.READ_SEARCH_INDEXABLES"

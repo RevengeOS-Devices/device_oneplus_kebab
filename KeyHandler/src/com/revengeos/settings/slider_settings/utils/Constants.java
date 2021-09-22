@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package org.carbonrom.settings.slider_settings.utils;
+package com.revengeos.settings.slider_settings.utils;
 
 import java.util.HashMap;
 import java.util.Map;
